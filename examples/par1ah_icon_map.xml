@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<icons>
+    <icon package="com.android.dialer" drawable="@drawable/par1ah_aether_phone" />
+    <icon package="com.android.messaging" drawable="@drawable/par1ah_aether_messages" />
+    <icon package="com.android.camera2" drawable="@drawable/par1ah_aether_camera" />
+    <icon package="com.android.settings" drawable="@drawable/par1ah_aether_settings" />
+    <icon package="com.android.documentsui" drawable="@drawable/par1ah_aether_files" />
+</icons>
